@@ -694,6 +694,11 @@ section.lazy-placeholder:after {
   font-size: 60px;
   color: #777;
 }
+.cid-sj6ly3I1Du {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #ffffff;
+}
 .cid-sj6p2mvUCM {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -747,9 +752,4 @@ section.lazy-placeholder:after {
 }
 .cid-sj6p2mvUCM .links P {
   text-align: center;
-}
-.cid-sj6ly3I1Du {
-  padding-top: 15px;
-  padding-bottom: 120px;
-  background-color: #ffffff;
 }
